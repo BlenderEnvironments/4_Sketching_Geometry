@@ -20,6 +20,19 @@ Mike shows you a simple scene that you'll be able to create using the new and im
 
 You will be able to use the basicgrease pencil in Blender!
 
+### 3 Setting Suitable Background Colours
+
+**In this video (objectives)…**
+
+1. Look at how to change the Background
+2. Understand when to use a light vs a dark background
+3. Reason why you need to have an appropriate colour grease pencil with your chose back ground
+
+
+**After watching (learning outcomes)…**
+
+You will have a more comfortable working environment for sketching in Blender.
+
 -----
 
 readmetemplate
