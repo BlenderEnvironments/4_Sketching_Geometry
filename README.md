@@ -51,7 +51,7 @@ You will have a more comfortable working environment for sketching in Blender.
 
 You will be able to modify your grease pencil after you have created it.
 
-### Grease Pencil To Curve
+### 5 Converting Your Sketch To A Curve
 
 **In this video (objectives)…**
 
