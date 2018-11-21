@@ -63,6 +63,18 @@ You will be able to modify your grease pencil after you have created it.
 
 You will be able to convert grease pencil sketches to curve data
 
+### 6 Making A Curve 3 Dimensional
+
+**In this video (objectives)…**
+
+1. Whilst keeping the curve as a curve object create real geometry
+2. Explore the different options
+
+
+**After watching (learning outcomes)…**
+
+You will be able to use your curves as real geometry
+
 ### Drawing Curves
 
 
