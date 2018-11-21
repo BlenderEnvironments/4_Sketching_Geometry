@@ -39,18 +39,17 @@ You will be able to use the basicgrease pencil in Blender!
 
 You will have a more comfortable working environment for sketching in Blender.
 
-### 4 Edit Your Grease Pencil Strokes
+### 4 Editing Grease Pencil Strokes
 
 **In this video (objectives)…**
 
 1. Edit stokes made using the grease pencil tool
 2. Great for when things new a slight adjustment
-3.
-
+3. Use Proportional editing to manipulate your sketch
 
 **After watching (learning outcomes)…**
 
-< What the student will be able to do, space above important >
+You will be able to modify your grease pencil after you have created it.
 
 ### Grease Pencil To Curve
 
