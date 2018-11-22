@@ -77,6 +77,9 @@ You will be able to use your curves as real geometry
 
 ### 7 Refining Shadows In Eevee
 
+### 8 Subsurface Scattering In Eevee
+
+
 ### Drawing Curves
 
 
