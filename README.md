@@ -75,6 +75,8 @@ You will be able to convert grease pencil sketches to curve data
 
 You will be able to use your curves as real geometry
 
+### 7 Refining Shadows In Eevee
+
 ### Drawing Curves
 
 
