@@ -83,6 +83,8 @@ You will be able to use your curves as real geometry
 
 ### 10 Quick Tip: Drawing Curves 
 
+### 11 Snapping To The Grease Pencil
+
 
 -----
 
