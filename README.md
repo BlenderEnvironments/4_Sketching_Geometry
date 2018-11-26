@@ -79,8 +79,9 @@ You will be able to use your curves as real geometry
 
 ### 8 Subsurface Scattering In Eevee
 
+### 9 Drawing On A Surface
 
-### Drawing Curves
+### 10 Drawing Curves 
 
 
 -----
