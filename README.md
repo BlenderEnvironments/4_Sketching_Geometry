@@ -81,7 +81,7 @@ You will be able to use your curves as real geometry
 
 ### 9 Drawing On A Surface
 
-### 10 Drawing Curves 
+### 10 Quick Tip: Drawing Curves 
 
 
 -----
