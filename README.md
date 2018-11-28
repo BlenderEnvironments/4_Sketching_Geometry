@@ -77,13 +77,92 @@ You will be able to use your curves as real geometry
 
 ### 7 Refining Shadows In Eevee
 
+**In this video (objectives)…**
+
+1. Look in detail at the various shadow options
+2. Understand that with thin items, Shadow detail needs to be increased
+3. Cycles doesn't have these issues as the shadows occur naturally
+
+
+**After watching (learning outcomes)…**
+
+Be able to control Eevee's shadow settings with ease
+
 ### 8 Subsurface Scattering In Eevee
+
+**In this video (objectives)…**
+
+1. Look at what subsurface scattering is
+2. Understand that currently Eevee and Cycles produce very different results
+3. Cycles produces much more realistic results
+4. Turn it on in Eevee's rendering settings
+
+
+**After watching (learning outcomes)…**
+
+You will be able to setup and configure subsurface scattering in your materials
 
 ### 9 Drawing On A Surface
 
+**In this video (objectives)…**
+
+1. Use the grease pencil to draw on an object's surface
+2. Control the offset from that surface
+3. Understand it's limitations
+
+
+**After watching (learning outcomes)…**
+
+You will be able to sketch upon the surface of a model
+
 ### 10 Quick Tip: Drawing Curves 
 
+**In this video (objectives)…**
+
+1. Draw a curve rather than converting a grease pencil
+2. Understand it's limitations
+3. Far fewer control points to manage
+
+
+**After watching (learning outcomes)…**
+
+Use the mouse to sketch curves directly
+
 ### 11 Snapping To The Grease Pencil
+
+**In this video (objectives)…**
+
+1. Use the grease pencil in a new way
+2. Link our strokes to each other
+
+
+**After watching (learning outcomes)…**
+
+Build much more complex sketches by linking a new stroke to previous ones
+
+### 12 Bend Angle
+
+**In this video (objectives)…**
+
+1. Use Bend Angle
+2. See that it works across many object types in Blender
+3. Convert a curve into mesh
+
+
+**After watching (learning outcomes)…**
+
+Be able to adjust your strokes another way
+
+### 13 Optimising And Cleanup - Dissolve
+
+### 14 Drawing With Symmetry
+
+### 15 Fun With Arrays
+
+### 16 Final Scene In Sketching Geometry
+
+### 17 Sketching Geometry Wrap Up
+
 
 
 -----
