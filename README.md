@@ -155,6 +155,17 @@ Be able to adjust your strokes another way
 
 ### 13 Optimising And Cleanup - Dissolve
 
+**In this video (objectives)…**
+
+1. Understand the impact when models are used repeatedly
+2. Optimise our models
+3. Learn about dissolving
+
+
+**After watching (learning outcomes)…**
+
+You will be able to produce models and therefore scene that are more optimised.
+
 ### 14 Drawing With Symmetry
 
 ### 15 Fun With Arrays
