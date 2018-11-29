@@ -51,6 +51,11 @@ You will have a more comfortable working environment for sketching in Blender.
 
 You will be able to modify your grease pencil after you have created it.
 
+### 4a Quick Tip Duplicating
+
+Michael show you a quick tip that is especially useful if you don't have a stylus.
+
+
 ### 5 Converting Your Sketch To A Curve
 
 **In this video (objectives)…**
@@ -168,16 +173,63 @@ You will be able to produce models and therefore scene that are more optimised.
 
 ### 14 Drawing With Symmetry
 
+A quick lecture showing you how to increase your speed by using the mirror modifier
+
 ### Joining Curve and Mesh Data
+
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
 
 ### Fun With Arrays
 
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
 ### Particle System Basics
+
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
 
 ### Final Scene In Sketching Geometry
 
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
 ### Sketching Geometry Wrap Up
 
+Michael wraps up this section :) Hope you have had fun!
 
 
 -----
