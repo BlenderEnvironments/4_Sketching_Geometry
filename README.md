@@ -168,11 +168,15 @@ You will be able to produce models and therefore scene that are more optimised.
 
 ### 14 Drawing With Symmetry
 
-### 15 Fun With Arrays
+### Joining Curve and Mesh Data
 
-### 16 Final Scene In Sketching Geometry
+### Fun With Arrays
 
-### 17 Sketching Geometry Wrap Up
+### Particle System Basics
+
+### Final Scene In Sketching Geometry
+
+### Sketching Geometry Wrap Up
 
 
 
