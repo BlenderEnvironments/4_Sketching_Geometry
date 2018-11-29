@@ -175,18 +175,16 @@ You will be able to produce models and therefore scene that are more optimised.
 
 A quick lecture showing you how to increase your speed by using the mirror modifier
 
-### Joining Curve and Mesh Data
+### 15 Joining Curve and Mesh Data
 
 **In this video (objectives)…**
 
-1. What we did
-2.
-3.
-
+1. Understand that you can convery curve data into mesh data
+2. You can then manipulate it even further
 
 **After watching (learning outcomes)…**
 
-< What the student will be able to do, space above important >
+Be able to usefully convert curve data into mesh data
 
 ### Fun With Arrays
 
