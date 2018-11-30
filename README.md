@@ -186,18 +186,15 @@ A quick lecture showing you how to increase your speed by using the mirror modif
 
 Be able to usefully convert curve data into mesh data
 
-### Fun With Arrays
+### 16 Fun With Arrays
 
 **In this video (objectives)…**
 
-1. What we did
-2.
-3.
-
+1. More advanced array manipulation
 
 **After watching (learning outcomes)…**
 
-< What the student will be able to do, space above important >
+Be able to use array in a much more creative manner
 
 ### Particle System Basics
 
