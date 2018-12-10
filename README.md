@@ -84,6 +84,8 @@ You will be able to use your curves as real geometry
 
 **In this video (objectives)…**
 
+
+
 1. Look in detail at the various shadow options
 2. Understand that with thin items, Shadow detail needs to be increased
 3. Cycles doesn't have these issues as the shadows occur naturally
@@ -196,39 +198,26 @@ Be able to usefully convert curve data into mesh data
 
 Be able to use array in a much more creative manner
 
-### Particle System Basics
+### 17 Particle System Basics
 
 **In this video (objectives)…**
 
-1. What we did
-2.
-3.
+1. Use particle systems to position many objects in our scene
+2. Add some randomness to our particles
+3. Paint our objects to certain areas
 
 
 **After watching (learning outcomes)…**
 
-< What the student will be able to do, space above important >
+Have a basic grasp of Blender's particle system
 
-### Final Scene In Sketching Geometry
-
-**In this video (objectives)…**
-
-1. What we did
-2.
-3.
-
-
-**After watching (learning outcomes)…**
-
-< What the student will be able to do, space above important >
-
-### Sketching Geometry Wrap Up
+### 18 Sketching Geometry Wrap Up
 
 Michael wraps up this section :) Hope you have had fun!
 
 
 -----
-
+### Final Scene In Sketching Geometry
 ### Readme Template
 **In this video (objectives)…**
 
