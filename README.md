@@ -7,12 +7,6 @@ In this section we look at using a quick way to mockup worlds and create folliag
 
 Mike shows you a simple scene that you'll be able to create using the new and improved Grease pencil in Blender 2.8
 
-### 1a Issues With The Grease Pencil 
-
-There is an Issue at the moment with the grease pencil and Blender Crashing.
-
-This lecture will show you the way forward until the Blender developers have fixed the issue causing the crash
-
 ### 2 Adding a Grease Pencil Object
 
 **In this video (objectives)…**
